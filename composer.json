@@ -22,6 +22,5 @@
       "Prettus\\Moip\\Subscription\\": "src/",
       "Prettus\\Moip\\Subscription\\Test": "tests/"
     }
-  },
-  "minimum-stability": "stable"
+  }
 }
